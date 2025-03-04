@@ -1,7 +1,7 @@
 # Multilingual Relation Extraction - A Survey
 ## Repository Information  
 
-This repository contains files related to our survey.  
+This repository contains files related to our systematic survey about Multilingual RE.  
 
 - **Details of all papers:** [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1MCPoM9nsN1VgvdvzjvgRW8OwoUaCkOGQxb_g4RzGN34/edit?gid=1771987299#gid=1771987299)  
 - **Colab Notebook:** [Google Colab](https://colab.research.google.com/drive/1Aqyj45rwOKANbbjfGQC9kQtKpzYxJ_Fv#scrollTo=y0DSORGEPk56)  

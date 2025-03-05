@@ -9,7 +9,7 @@ This repository contains files related to our systematic survey about Multilingu
 
 ## Included Litrature:
 
-All approaches with publication year (Year), supported languages (Langs), number of relations (\#Rel), the dataset name, KPIs, and implementation (Imp) are provided in the follwoing table:
+All approaches studied, with publication year (Year), supported languages (Langs), number of relations (\#Rel), the dataset name, KPIs, and implementation (Imp) are provided in the follwoing table:
 
 | Approach | Year | Langs | #Rel | Domain | Dataset | KPI | Imp |
 |----------|------|-------|------|--------|---------|-----|-----|
